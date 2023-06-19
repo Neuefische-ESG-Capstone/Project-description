@@ -52,7 +52,7 @@ Where do I invest if I want to maximize financial return and align with my value
 |---|---|
 |MF age |1. inception date|
 |MF size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
-|MF strategies | 5. investment strategies, 6.initial_investment, 7. investment types  |
-|Reputation- Rating|8. morningstar_risk_rating|
-|Returns|9.Price_earnings_ratio, 10. dividends, 11. year_to_date_return, 12. Time ( to better define)|
-|Sustainability| 13. ESG scores (to better define)|
+|MF strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
+|Reputation- Rating|9. morningstar_risk_rating|
+|Returns|10.Price_earnings_ratio, 11. dividends, 12. year_to_date_return, 13. Time ( to better define)|
+|Sustainability| 14. ESG scores (to better define)|
