@@ -10,7 +10,7 @@ We are a Data Analyst team of a big Consulting Firm in Europe and our clients ar
 
 However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk but also take into account environmental, social, and governance dimensions. 
 
-Our consulting firm has a data set of all Mutual Funds and ETFs in the USA with characteristics, returns, and sustainability scores, and we are responsible to help our clients to select 500 top MF taking into account their different investor profiles and combining the factors: financial performance and ESG dimensions. 
+Our consulting firm has a data set of all Mutual Funds and ETFs in the USA with characteristics, returns, and sustainability scores, and we are responsible to help our clients to select 500 top MF and ETFs taking into account their different investor profiles and combining the factors: financial performance and ESG dimensions. 
 
 
 We will answer the following questions : 
@@ -21,7 +21,7 @@ Where do I invest if I want to maximize financial return and align with my value
 |---|---|
 |1. Which Inv. Funds are leaders in financial performance on average? | X strategy, X type, X regions, Large and Older Mutual Funds because of experience |
 |2. Which Inv. Funds are leaders in ESG performance on average ?|Small and new Mutual Funds because they want to build reputation|
-|3. Are financial leaders also sustainable leaders? |Answer:| 
+|3. Are financial leaders also sustainability leaders? |Answer:| 
 |4. Which Inv. Funds combine the best financial and ESG score |__MVP__ [Summary capstone last year](https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/main/Module%205%20-%20EDA%20Visualization/protocol_day17_10may23.md)| 
 |5. Does the financial rating coincide with the ESG rating? |Answer:| 
 |6. Is there any ESG score clustering |Per size, per investment strategy, per investment type, per dividend| 
@@ -35,7 +35,8 @@ Where do I invest if I want to maximize financial return and align with my value
 2. Define a Composite KPI for ESG performance 
 
 4. a. Clean our data (e.g. specify which columns you want to keep, rename columns etc.)  
-   b. Reduce our dataframe 
+   b. Reduce our dataframe
+   c. Merge Dataframe ETF and MF
    
    c. Make an EDA on the data we have downloaded and explain any unexpected findings.   
    d. Connect to the database 
