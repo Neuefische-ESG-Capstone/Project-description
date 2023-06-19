@@ -19,11 +19,12 @@
 |fund_alpha_3years	|fund_beta_3years	|fund_sharpe_ratio_3years|   
 |fund_alpha_5years|fund_beta_5years|fund_sharpe_ratio_5years	| 
 |fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
-|15:00 - 16:00|your text here|your text here|
-|16:00 - 17:00|your text here|your text here|
 
 
+## __Return Profile KPI__ 
+###consistent long-term performance rather than short-term gains
 
+[Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
 
 
 fund_mean_annual_return_3years	
