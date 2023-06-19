@@ -10,7 +10,7 @@
 
 
 
-## __Schedule__ 
+## __Risk Profile KPI__ 
 |[Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| "Risk is one word, but it is not one number." | Harry Kat, professor of risk management  |
 |---|---|---|
 |Alpha|Beta|Sharpe Ratio|
