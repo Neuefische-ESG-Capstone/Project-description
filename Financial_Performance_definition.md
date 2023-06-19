@@ -11,7 +11,7 @@
 
 
 ## __Risk Profile KPI__ 
-|[Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |  |
+|[Link for Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |  |
 |---|---|---|
 |Alpha|Beta|Sharpe Ratio|
 |It takes the volatility (price risk) of a security or fund portfolio and compares its risk-adjusted performance to a benchmark index. The excess return of the investment relative to the return of the benchmark index is its alpha.| the volatility, or systematic risk, of a security or a portfolio, compared to the market as a whole.|The Sharpe ratio tells investors whether an investment's returns are due to wise investment decisions or the result of excess risk.|
