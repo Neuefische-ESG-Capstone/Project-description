@@ -5,24 +5,24 @@ In this project, we plan to combine our Python, SQL, and Tableau skills and use 
 
 ## Objective
 
-We are a Data Analyst team of a big Consulting Firm in Europe and our clients are considering expanding their investments in Investment Funds in the United States. 
+We are a Data Analyst team of a big Consulting Firm in Europe and our clients are considering expanding their investments in Investment Funds ( MF and ETF) in the United States. 
 
 
-However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk, but also take into account environmental, social and governance dimensions. 
+However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk but also take into account environmental, social, and governance dimensions. 
 
-Our consulting firm has a data set of all Mutual Funds in USA with characteristics, returns and sustanability scores , and we are responsible to help our clients to select 500 top MF taking into account their different investor profiles combining the factors: earnings and ESG dimensions. 
+Our consulting firm has a data set of all Mutual Funds and ETFs in the USA with characteristics, returns, and sustainability scores, and we are responsible to help our clients to select 500 top MF taking into account their different investor profiles and combining the factors: financial performance and ESG dimensions. 
 
 
 We will answer the following questions : 
-Where do I invest if I want to maximise return and align with my values and engagement for sustainability 
+Where do I invest if I want to maximize financial return and align with my values and engagement for sustainability 
 
 ## __Research Questions__ 
 |Questions|Hypothesis|
 |---|---|
-|1. Which Mutal Funds are leaders in financial performance on average? | X strategy, X type, Large and Older Mutual Funds because of experience |
-|2. Which Mutal Funds are leaders in ESG performance on average ?|Small and new Mutual Funds because they want to build reputation|
+|1. Which Inv. Funds are leaders in financial performance on average? | X strategy, X type, X regions, Large and Older Mutual Funds because of experience |
+|2. Which Inv. Funds are leaders in ESG performance on average ?|Small and new Mutual Funds because they want to build reputation|
 |3. Are financial leaders also sustainable leaders? |Answer:| 
-|4. Which MF combine the best financial and ESG score |__MVP__ [Summary capstone last year](https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/main/Module%205%20-%20EDA%20Visualization/protocol_day17_10may23.md)| 
+|4. Which Inv. Funds combine the best financial and ESG score |__MVP__ [Summary capstone last year](https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/main/Module%205%20-%20EDA%20Visualization/protocol_day17_10may23.md)| 
 |5. Does the financial rating coincide with the ESG rating? |Answer:| 
 |6. Is there any ESG score clustering |Per size, per investment strategy, per investment type, per dividend| 
 |7. What are the determinants of ESG score | Regression analysis| 
@@ -51,8 +51,8 @@ Where do I invest if I want to maximise return and align with my values and enga
 |New Dataframe| Columns|
 |---|---|
 |MF age |1. inception date|
-|MF size |2. total_net_assets, 3. asset_convertible,  4. category|
-|MF strategies | 4. investment strategies, 5.initial_investment, 6. investment types  |
-|Reputation- Rating|7. morningstar_risk_rating|
-|Returns|8.Price_earnings_ratio, 9. dividends, 10. year_to_date_return, 11. Time ( to better define)|
-|Sustainability| 12. ESG scores (to better define)|
+|MF size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
+|MF strategies | 5. investment strategies, 6.initial_investment, 7. investment types  |
+|Reputation- Rating|8. morningstar_risk_rating|
+|Returns|9.Price_earnings_ratio, 10. dividends, 11. year_to_date_return, 12. Time ( to better define)|
+|Sustainability| 13. ESG scores (to better define)|
