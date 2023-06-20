@@ -13,7 +13,7 @@ performance.
 |Characteristics | Columns|
 |---|---|
 |Inv. Fund age |1. inception_date	|
-|Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. fund_category	,  fund_family 5. exchange_timezone|
+|Inv. Fund size |2. total_net_assets, 3. fund_category	,  4. fund_family 5. exchange_timezone|
 |Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
 |__Financial and ESG Performance__| __Columns__|
