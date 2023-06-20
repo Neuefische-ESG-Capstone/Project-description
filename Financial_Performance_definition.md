@@ -1,7 +1,7 @@
 # Our Approach:  
-Consistent long-term performance rather than short-term gains
+1. Consistent long-term performance rather than short-term gains
 
-Selection criteria based on historical Performance according to the Performance Persistence Paradigm: 
+2. Selection criteria based on historical Performance according to the Performance Persistence Paradigm: 
 
 Performance Persistence means that the future performance of mutual funds can be predicted through their
 past performance’ that is the past performance of the fund schemes is an indicator of their future
