@@ -1,6 +1,6 @@
 # Our Approach:  Consistent long-term performance rather than short-term gains
 
-Performance Persistence means that the future performance of mutual fund can be predicted through their
+Performance Persistence means that the future performance of mutual funds can be predicted through their
 past performance’ that is the past performance of the fund schemes is an indicator of their future
 performance.
 [Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
@@ -25,7 +25,7 @@ performance.
 |---|---|---|
 |Alpha|Beta|Sharpe Ratio|
 |It takes the volatility (price risk) of a security or fund portfolio and compares its risk-adjusted performance to a benchmark index. The excess return of the investment relative to the return of the benchmark index is its alpha.| the volatility, or systematic risk, of a security or a portfolio, compared to the market as a whole.|The Sharpe ratio tells investors whether an investment's returns are due to wise investment decisions or the result of excess risk.|
-| an alpha of -1.0 would indicate an underperformance of 1%. For investors, the higher the alpha the better.|A beta of 1.0 indicates that the investment's price will move in lock-step with the market. A beta of less than 1.0 indicates that the investment will be less volatile than the market. Correspondingly, a beta of more than 1.0 indicates that the investment's price will be more volatile than the market. For example, if a fund portfolio's beta is 1.2, it is theoretically 20% more volatile than the market.| This measurement is useful because while one portfolio or security may generate higher returns than its peers, it is only a good investment if those higher returns do not come with too much additional risk. The greater an investment's Sharpe ratio, the better its risk-adjusted performance.|
+| An alpha of -1.0 would indicate an underperformance of 1%. For investors, the higher the alpha the better.|A beta of 1.0 indicates that the investment's price will move in lock-step with the market. A beta of less than 1.0 indicates that the investment will be less volatile than the market. Correspondingly, a beta of more than 1.0 indicates that the investment's price will be more volatile than the market. For example, if a fund portfolio's beta is 1.2, it is theoretically 20% more volatile than the market.| This measurement is useful because while one portfolio or security may generate higher returns than its peers, it is only a good investment if those higher returns do not come with too much additional risk. The greater an investment's Sharpe ratio, the better its risk-adjusted performance.|
 |fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
 
 ## __2. Fees___
