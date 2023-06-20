@@ -14,8 +14,9 @@ performance.
 |Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
 |Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
-|Returns| 13. fund_mean_annual_return_10years|
-|Sustainability| 14. ESG scores (to better define)|
+|Inv. Funds Fees| 13. fund_mean_annual_return_10years|
+|Returns| 14. fund_annual_report_net_expense_ratio|
+|Sustainability| 15. ESG scores (to better define)|
 
 
 
