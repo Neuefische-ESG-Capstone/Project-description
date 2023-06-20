@@ -13,7 +13,7 @@ performance.
 |Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
 |Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
-|Inv. Fund Risk Profile| |10. Alpha, 11. Beta,  12. Sharpe Ratio|
+|Inv. Fund Risk Profile|10. Alpha, 11. Beta,  12. Sharpe Ratio|
 |Returns| 13. fund_mean_annual_return_3years, 14. fund_mean_annual_return_5years, 15. fund_mean_annual_return_10years|
 |Sustainability| 14. ESG scores (to better define)|
 
