@@ -32,6 +32,7 @@ performance.
 
 fund_annual_report_net_expense_ratio
 ## __3. Return Profile KPI__ : Long terme Perspective
+Based on historical Performance
 
 fund_mean_annual_return_10years	
 
