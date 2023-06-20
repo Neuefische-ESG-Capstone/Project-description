@@ -1,4 +1,7 @@
-# Our Approach:  Consistent long-term performance rather than short-term gains
+# Our Approach:  
+Consistent long-term performance rather than short-term gains
+
+Selection criteria based on historical Performance according to the Performance Persistence Paradigm: 
 
 Performance Persistence means that the future performance of mutual funds can be predicted through their
 past performance’ that is the past performance of the fund schemes is an indicator of their future
@@ -32,7 +35,7 @@ performance.
 
 fund_annual_report_net_expense_ratio
 ## __3. Return Profile KPI__ : Long terme Perspective
-Based on historical Performance
+Based on 
 
 fund_mean_annual_return_10years	
 
