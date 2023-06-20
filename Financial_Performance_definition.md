@@ -12,8 +12,8 @@ performance.
 
 |Characteristics | Columns|
 |---|---|
-|Inv. Fund age |1. inception date|
-|Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. category 5. Timezone|
+|Inv. Fund age |1. inception_date	|
+|Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. fund_category	,  fund_family 5. exchange_timezone|
 |Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
 |__Financial and ESG Performance__| __Columns__|
@@ -43,8 +43,9 @@ fund_annual_report_net_expense_ratio
 
 fund_mean_annual_return_10years	
 
-||||
+
 |KPI|Fees|Return|
+|---|---|---|
 |Definitions|is a measure of the total annual operating expenses of the fund, expressed as a percentage of its average net assets. It represents the costs incurred by the fund to manage and operate the investment portfolio|The average annual return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.|
 |Direction |the lower, the better (ASC)|the higher,the better__( DESC)|
 |Names in our Datasets|fund_annual_report_net_expense_ratio| fund_mean_annual_return_10years|
