@@ -14,3 +14,4 @@
 |exchange_timezone|time zone of the exchange where the fund is traded|
 |total_net_assets|total net assets (abbreviated as TNA or NAV) of the fund|
 |year_to_date_return|year-to-date return (YTD - calculated from first day of the year up to latest price)|
+|day50_moving_average|50-day moving average price|
