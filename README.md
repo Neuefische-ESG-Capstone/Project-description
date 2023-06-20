@@ -36,10 +36,11 @@ Where do I invest if I want to maximize financial return and align with my value
 
 4. a. Clean our data (e.g. specify which columns you want to keep, rename columns etc.)  
    b. Reduce our dataframe
+   
    c. Merge Dataframe ETF and MF
    
-   c. Make an EDA on the data we have downloaded and explain any unexpected findings.   
-   d. Connect to the database 
+   d. Make an EDA on the data we have downloaded and explain any unexpected findings.   
+   e. Connect to the database 
     
 ## Deliverables
 1. Clean and structured .ipynb notebook containing the (well-documented) code of data cleaning. 
