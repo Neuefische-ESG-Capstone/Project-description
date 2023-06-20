@@ -3,7 +3,6 @@
 Performance Persistence means that the future performance of mutual fund can be predicted through their
 past performance’ that is the past performance of the fund schemes is an indicator of their future
 performance.
-
 [Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
 
 ## Funds Characteristics 
