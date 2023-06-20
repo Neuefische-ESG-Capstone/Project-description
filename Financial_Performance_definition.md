@@ -31,7 +31,7 @@ performance.
 | An alpha of -1.0 would indicate an underperformance of 1%. For investors, the higher the alpha the better.|A beta of 1.0 indicates that the investment's price will move in lock-step with the market. A beta of less than 1.0 indicates that the investment will be less volatile than the market. Correspondingly, a beta of more than 1.0 indicates that the investment's price will be more volatile than the market. For example, if a fund portfolio's beta is 1.2, it is theoretically 20% more volatile than the market.| This measurement is useful because while one portfolio or security may generate higher returns than its peers, it is only a good investment if those higher returns do not come with too much additional risk. The greater an investment's Sharpe ratio, the better its risk-adjusted performance.|
 |fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
 
-## __2. Fees___
+## __2. Fees__
 
 fund_annual_report_net_expense_ratio
 ## __3. Return Profile KPI__ : Long terme Perspective
