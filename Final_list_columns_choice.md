@@ -10,7 +10,7 @@
   8. fund_alpha_10years
   9. fund_beta_10years
   10. fund_sharpe_ratio_10years
-  11. fund_mean_annual_return_10year
+  11. fund_mean_annual_return_10years
   12. fund_annual_report_net_expense_ratio
   13. environment_score
   14. social_score
