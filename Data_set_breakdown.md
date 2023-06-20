@@ -9,9 +9,7 @@
 |subsequent_investment| minimum amount for subsequent investments|
 |fund_category|name of the fund category (i.e. Large Blend, Large Growth, Large Value|  
 |fund_family|name of the fund family, i.e. BlackRock, Fidelity|
-|exchange_code|code of the exchange where the fund is traded, i.e. NAS|
-|exchange_name|name of the exchange where the fund is traded, i.e. Nasdaq|
-|exchange_timezone|time zone of the exchange where the fund is traded|
 |total_net_assets|total net assets (abbreviated as TNA or NAV) of the fund|
 |year_to_date_return|year-to-date return (YTD - calculated from first day of the year up to latest price)|
-|day50_moving_average|50-day moving average price|
+|day200_moving_average|200-day moving average price|
+|week52_high_low_change|overall change of price in latest 52 weeks|
