@@ -1,8 +1,8 @@
 # Final list of columns names 
 
   1. inception_date
-  2. total_net_assets,
-  3. fund_category,
+  2. total_net_assets
+  3. fund_category
   4.  fund_family
   5. exchange_timezone
   6. fund_alpha_10years
