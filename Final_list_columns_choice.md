@@ -17,4 +17,4 @@
   15. governance_score
   16. morningstar_risk_rating
 
-|Inv. strategies | 6. investment strategies, 7. investment types  |
+|  investment strategies, investment types  |
