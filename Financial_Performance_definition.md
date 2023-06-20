@@ -13,8 +13,8 @@ performance.
 |Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
 |Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
-|Inv. Fund Risk Profile| 10. fund_alpha_3years	11. fund_beta_3years 12. fund_sharpe_ratio_3years|  
-|Returns| 13. fund_mean_annual_return_3years, 14. fund_mean_annual_return_5years, 15. fund_mean_annual_return_10years|
+|Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
+|Returns| 13. fund_mean_annual_return_10years|
 |Sustainability| 14. ESG scores (to better define)|
 
 
@@ -25,21 +25,11 @@ performance.
 |Alpha|Beta|Sharpe Ratio|
 |It takes the volatility (price risk) of a security or fund portfolio and compares its risk-adjusted performance to a benchmark index. The excess return of the investment relative to the return of the benchmark index is its alpha.| the volatility, or systematic risk, of a security or a portfolio, compared to the market as a whole.|The Sharpe ratio tells investors whether an investment's returns are due to wise investment decisions or the result of excess risk.|
 | an alpha of -1.0 would indicate an underperformance of 1%. For investors, the higher the alpha the better.|A beta of 1.0 indicates that the investment's price will move in lock-step with the market. A beta of less than 1.0 indicates that the investment will be less volatile than the market. Correspondingly, a beta of more than 1.0 indicates that the investment's price will be more volatile than the market. For example, if a fund portfolio's beta is 1.2, it is theoretically 20% more volatile than the market.| This measurement is useful because while one portfolio or security may generate higher returns than its peers, it is only a good investment if those higher returns do not come with too much additional risk. The greater an investment's Sharpe ratio, the better its risk-adjusted performance.|
-|fund_alpha_3years	|fund_beta_3years	|fund_sharpe_ratio_3years|   
-|fund_alpha_5years|fund_beta_5years|fund_sharpe_ratio_5years	| 
 |fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
 
 ## fund_annual_report_net_expense_ratio
 
-
-
-## __Return Profile KPI__ 
-
-
-
-
-fund_mean_annual_return_3years	
-fund_mean_annual_return_5years	
+## __Return Profile KPI__ : Long terme Perspective
 fund_mean_annual_return_10years	
 
 	
