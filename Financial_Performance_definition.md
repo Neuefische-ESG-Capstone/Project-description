@@ -18,9 +18,9 @@ performance.
 |Returns| 14. fund_annual_report_net_expense_ratio|
 |Sustainability| 15. ESG scores (to better define)|
 
+# Selection criteria for an investment fund
 
-
-## __Risk Profile KPI__ 
+## __1. Risk Profile KPI__ 
 |[Link for Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |  |
 |---|---|---|
 |Alpha|Beta|Sharpe Ratio|
@@ -28,10 +28,10 @@ performance.
 | an alpha of -1.0 would indicate an underperformance of 1%. For investors, the higher the alpha the better.|A beta of 1.0 indicates that the investment's price will move in lock-step with the market. A beta of less than 1.0 indicates that the investment will be less volatile than the market. Correspondingly, a beta of more than 1.0 indicates that the investment's price will be more volatile than the market. For example, if a fund portfolio's beta is 1.2, it is theoretically 20% more volatile than the market.| This measurement is useful because while one portfolio or security may generate higher returns than its peers, it is only a good investment if those higher returns do not come with too much additional risk. The greater an investment's Sharpe ratio, the better its risk-adjusted performance.|
 |fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
 
-## Fees
+## __2. Fees___
 
 fund_annual_report_net_expense_ratio
-## __Return Profile KPI__ : Long terme Perspective
+## __3. Return Profile KPI__ : Long terme Perspective
 fund_mean_annual_return_10years	
 
 	
