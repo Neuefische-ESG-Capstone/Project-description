@@ -32,10 +32,11 @@ performance.
 
 fund_annual_report_net_expense_ratio
 ## __3. Return Profile KPI__ : Long terme Perspective
+
 fund_mean_annual_return_10years	
 
-	
-TURNOVER
+The average annual return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.	
+
 
 
 
