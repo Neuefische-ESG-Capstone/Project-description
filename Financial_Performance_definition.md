@@ -32,7 +32,7 @@ performance.
 |Interpretations|__*1__. a null alpha means that the actual return = the expected return, __*2__. a positive alpha means that the fund outperforms the market and __*3__. an alpha of -1.0 would indicate an underperformance of 1%. |__*1__. a beta lower than one suggests that a stock is less risky than the market. __*2__. a beta of one suggests that the stock moves in sync with the market,  __*3__. a beta of more than 1.0 indicates that the investment's price will be more volatile than the market. For example, if a fund portfolio's beta is 1.2, it is theoretically 20% more volatile than the market.| In comparison to peers, the greater an investment's Sharpe ratio, the better its risk-adjusted performance|
 |Direction |__the higher,the better__( DESC)| __the lower , the better__(ASC)|__the higher the ratio, the better__| 
 |Names in our Datasets|fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
-|Range |*Max 25.92    *Min -37.20 |*Max 5.21  *Min -25.34 |Max  2.63  Min -4.36	| 
+|Range in our Datasets |*Max 25.92    *Min -37.20 |*Max 5.21  *Min -25.34 |Max  2.63  Min -4.36	| 
 
 
 ## __2. Fees__
