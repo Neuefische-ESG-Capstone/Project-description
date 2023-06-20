@@ -5,13 +5,17 @@ past performance’ that is the past performance of the fund schemes is an indic
 performance.
 
 [Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
-|New Dataframe| Columns|
+
+## Funds Characteristics 
+
+|Characteristics | Columns|
 |---|---|
-|MF age |1. inception date|
-|MF size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
-|MF strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
+|Inv. Fund age |1. inception date|
+|Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
+|Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
-|Returns|10.Price_earnings_ratio, 11. dividends, 12. year_to_date_return, 13. Time ( to better define)|
+|Inv. Fund Risk Profile| |10. Alpha, 11. Beta,  12. Sharpe Ratio|
+|Returns| 13. fund_mean_annual_return_3years, 14. fund_mean_annual_return_5years, 15. fund_mean_annual_return_10years|
 |Sustainability| 14. ESG scores (to better define)|
 
 
