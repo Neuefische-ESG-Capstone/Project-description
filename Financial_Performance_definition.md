@@ -10,7 +10,7 @@ performance.
 |Characteristics | Columns|
 |---|---|
 |Inv. Fund age |1. inception date|
-|Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
+|Inv. Fund size |2. total_net_assets, 3. asset_convertible,  4. category 5. Timezone|
 |Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
 |Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
