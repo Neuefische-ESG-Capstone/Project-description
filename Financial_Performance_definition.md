@@ -43,7 +43,7 @@ fund_annual_report_net_expense_ratio
 
 fund_mean_annual_return_10years	
 
-
+|---|---|---|
 |KPI|Fees|Return|
 |Definitions|is a measure of the total annual operating expenses of the fund, expressed as a percentage of its average net assets. It represents the costs incurred by the fund to manage and operate the investment portfolio|The average annual return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.|
 |Direction |the lower, the better (ASC)|the higher,the better__( DESC)|
