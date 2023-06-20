@@ -1,4 +1,10 @@
+# Our Approach:  Consistent long-term performance rather than short-term gains
 
+Performance Persistence means that the future performance of mutual fund can be predicted through their
+past performance’ that is the past performance of the fund schemes is an indicator of their future
+performance.
+
+[Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
 |New Dataframe| Columns|
 |---|---|
 |MF age |1. inception date|
@@ -20,36 +26,22 @@
 |fund_alpha_5years|fund_beta_5years|fund_sharpe_ratio_5years	| 
 |fund_alpha_10years|fund_beta_10years|fund_sharpe_ratio_10years	| 
 
+## fund_annual_report_net_expense_ratio
+
+
 
 ## __Return Profile KPI__ 
-###consistent long-term performance rather than short-term gains
 
-[Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
+
 
 
 fund_mean_annual_return_3years	
 fund_mean_annual_return_5years	
 fund_mean_annual_return_10years	
 
-fund_r_squared_3years	
-fund_stdev_3years	
 	
-fund_treynor_ratio_3years		
-	
+TURNOVER
 
-fund_r_squared_5years	
-fund_stdev_5years	
 
-fund_treynor_ratio_5years	
-	
 
-fund_r_squared_10years	
-fund_stdev_10years	
 
-fund_treynor_ratio_10years	
-fund_return_category_rank_ytd	
-fund_return_category_rank_1month	
-fund_return_category_rank_3months	
-fund_return_category_rank_1year	
-fund_return_category_rank_3years	
-fund_return_category_rank_5years
