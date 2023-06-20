@@ -14,7 +14,7 @@ performance.
 |---|---|
 |Inv. Fund age |1. inception_date	|
 |Inv. Fund size and details |2. total_net_assets, 3. fund_category	,  4. fund_family 5. exchange_timezone|
-|Inv. strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
+|Inv. strategies | 6. investment strategies, 7. investment types  |
 |Reputation- Rating|9. morningstar_risk_rating|
 |__Financial and ESG Performance__| __Columns__|
 |Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
