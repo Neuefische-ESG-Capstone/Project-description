@@ -20,7 +20,7 @@ performance.
 |Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
 |Inv. Funds Fees| 13. fund_mean_annual_return_10years|
 |Returns| 14. fund_annual_report_net_expense_ratio|
-|Sustainability| 15. ESG scores (to better define)|
+|Sustainability| 15. esg_score|
 
 # Selection criteria for an investment fund
 
