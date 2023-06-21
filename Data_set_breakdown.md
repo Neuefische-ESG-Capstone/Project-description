@@ -9,30 +9,28 @@
 |fund_family|name of the fund family, i.e. BlackRock, Fidelity|
 |total_net_assets|total net assets (abbreviated as TNA or NAV) of the fund|
 |year_to_date_return|year-to-date return (YTD - calculated from first day of the year up to latest price)|
-|week52_high_low_change|overall change of price in latest 52 weeks|
+|day200_moving_average||200-day moving average price|
+|week52_high_low_change_percentage|relative change (in %) of price in latest 52 weeks|
 |morningstar_overall_rating|overall MorningStar rating|
-|morningstar_risk|MorningStar risk rating|
 |fund_yield|fund yield (income amount per share divided by the share's NAV)|
 |inception_date|date of fund inception (in 'YYYY-MM-DD' format)|
 |investment_type|type of investment (value, blend, or growth)|
 |size_type|type of size (small, medium, or large)type of size (small, medium, or large)|
-|asset_cash|holdings allocation (in %) of cash|
-|asset_stocks|holdings allocation (in %) of stocks|
-|asset_bonds|holdings allocation (in %) of bonds|
-|asset_others|holdings allocation (in %) of other investments|
-|asset_preferred|holdings allocation (in %) of preferred securities|
-|fund_sector_energy|holdings allocation (in %) securities that belong to the energy sector|
-|fund_price_book_ratio|price/book ratio of the fund|
-|category_price_book_ratio|price/book ratio of the category|
-|fund_price_book_ratio|price/book ratio of the fund|
-|fund_price_cashflow_ratio|price/cash-flow ratio of the fund|
-|category_price_cashflow_ratio|
-|fund_price_earning_ratio|
-|category_price_earning_ratio|
-|fund_price_sales_ratio|
-|category_price_sales_ratio|
-|fund_prospectus_net_expense_ratio|
-fund_annual_report_net_expense_ratio
+|fund_return_10years|10-years fund return|
+|fund_mean_annual_return_10years|10-years fund mean annual return|
+|fund_annual_report_net_expense_ratio|actual fees charged by the fund during a particular fiscal year|
+|fund_alpha_10years|10-years fund alpha (volatility in comparison with the market as a whole)|
+|fund_beta_10years|10-years fund beta (volatility in comparison with the market as a whole)|
+|fund_sharpe_ratio_10years|10-years fund Sharpe ratio|
+|esg_score|fund ESG score (Environmental, Social, Government)|
+|esg_peer_group|name of ESG peer group|
+|peer_esg_avg|average ESG score in peer group|
+|environment_score|fund Environmental score|
+|peer_environment_avg|average Environmental score in peer group|
+|social_score|fund Social score|
+|peer_social_avg|average Social score in peer group|
+|governance_score|fund Government score|
+|peer_governance_avg|average Government score in peer group|
 
 
 
