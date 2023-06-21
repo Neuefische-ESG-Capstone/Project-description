@@ -31,6 +31,9 @@
 |category_price_earning_ratio|
 |fund_price_sales_ratio|
 |category_price_sales_ratio|
+|fund_prospectus_net_expense_ratio|
+fund_annual_report_net_expense_ratio
+
 
 
 
