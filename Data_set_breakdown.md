@@ -32,6 +32,16 @@
 |governance_score|fund Government score|
 |peer_governance_avg|average Government score in peer group|
 
+Financial Return KPIs:
+a) Year-to-Date Return (YTD): Measure the fund's performance from the start of the year to the present. A higher YTD return indicates better short-term financial performance.
+b) 10-Year Fund Return: Evaluate the fund's long-term performance over a 10-year period. Compare the returns to benchmark indices or peer group averages to assess relative performance.
+c) Fund Mean Annual Return (10 years): Analyze the average annualized return of the fund over the past 10 years. This metric helps evaluate the fund's consistency in delivering returns.
+
+ESG Score KPIs:
+a) ESG Score: Assess the overall ESG performance of the fund using a quantitative score. Higher ESG scores indicate better sustainability performance.
+b) Environmental Score: Evaluate the fund's performance in environmental sustainability, such as its carbon footprint, resource usage, or renewable energy investments.
+c) Social Score: Assess the fund's social impact, including factors like labor practices, diversity and inclusion, community engagement, or product safety.
+
 
 
 
