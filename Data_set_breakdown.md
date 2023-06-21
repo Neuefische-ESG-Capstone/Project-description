@@ -5,8 +5,6 @@
 |fund_symbol |symbol of the Mutual Fund|
 |fund_short_name|short name of the fund|
 |fund_long_name | extended name of the fund|
-|initial_investment|minimum amount for initial investment|
-|subsequent_investment| minimum amount for subsequent investments|
 |fund_category|name of the fund category (i.e. Large Blend, Large Growth, Large Value|  
 |fund_family|name of the fund family, i.e. BlackRock, Fidelity|
 |total_net_assets|total net assets (abbreviated as TNA or NAV) of the fund|
