@@ -25,7 +25,7 @@ performance.
 # Selection criteria for an investment fund
 
 ## __1. Risk Profile KPI__ 
-||[Link for Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |  |
+||[Link for Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |[Link for Source](https://www.forbes.com/advisor/investing/sharpe-ratio/#:~:text=The%20Sharpe%20Ratio%20is%20calculated,a%20measure%20of%20its%20volatility.) |
 |---|---|---|---|
 |KPIs|Alpha|Beta|Sharpe Ratio|
 |Definitions| Difference between what I have earned (Actual in %) and what I should earn (Expected benchmark in %) | The volatility or systematic risk of the fund portfolio, compared to the market as a whole| indicates risk-adjusted return. Use to compare peer with same level of return  *__Sharpe Ratio = (expected return –  risk-free rate) / Standard deviation__|
