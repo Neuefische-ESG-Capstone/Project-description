@@ -18,8 +18,8 @@ performance.
 |Reputation- Rating|9. morningstar_risk_rating|
 |__Financial and ESG Performance__| __Columns__|
 |Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
-|Inv. Funds Fees| 13. fund_mean_annual_return_10years|
-|Returns| 14. fund_annual_report_net_expense_ratio|
+|Inv. Funds Fees| 13. fund_annual_report_net_expense_ratio |
+|Returns| 14.fund_mean_annual_return_10years |
 |Sustainability| 15. esg_score|
 
 # Selection criteria for an investment fund
