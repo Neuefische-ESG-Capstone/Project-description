@@ -10,40 +10,36 @@ We are a Data Analyst team of a big Consulting Firm in Europe and our clients ar
 
 However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk but also take into account environmental, social, and governance dimensions. 
 
-Our consulting firm has a data set of all Mutual Funds and ETFs in the USA with characteristics, returns, and sustainability scores, and we are responsible to help our clients to select 500 top MF and ETFs taking into account their different investor profiles and combining the factors: financial performance and ESG dimensions. 
+Our consulting firm has a data set of all Mutual Funds in the USA with all the characteristics, returns, and sustainability scores. We are responsible to help our clients to select X top Mutual Funds taking into account their different investor profiles and combining two factors: financial performance and ESG dimensions. 
 
 
 We will answer the following questions : 
-Where do I invest if I want to maximize financial return and align with my values and engagement for sustainability 
+What are the investment options that can yield maximum financial returns while also aligning with my values and commitment to sustainability?
+Are financial leaders also sustainability leaders? As a deliverable, we aim to examine the financial performance and ESG scores of various mutual funds. Our goal is to investigate whether there are discernible patterns in ESG scores based on factors such as fund size, investment strategy, investment type, and dividend distribution.
 
 ## __Research Questions__ 
 |Questions|Hypothesis|
 |---|---|
-|1. Which Inv. Funds are leaders in financial performance on average? | X strategy, X type, X regions, Large and Older Mutual Funds because of experience |
-|2. Which Inv. Funds are leaders in ESG performance on average ?|Small and new Mutual Funds because they want to build reputation|
-|3. Are financial leaders also sustainability leaders? |Answer:| 
-|4. Which Inv. Funds combine the best financial and ESG score |__MVP__ [Summary capstone last year](https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/main/Module%205%20-%20EDA%20Visualization/protocol_day17_10may23.md)| 
-|5. Does the financial rating coincide with the ESG rating? |Answer:| 
-|6. Is there any ESG score clustering |Per size, per investment strategy, per investment type, per dividend| 
-|7. What are the determinants of ESG score | Regression analysis| 
+|1. Which Inv. Funds are leaders in financial performance on average? | X strategy, X type, large and established Mutual Funds because of experience/good track record |
+|2. Which Inv. Funds are leaders in ESG performance on average ?|Smaller and newer Mutual Funds because they want to build good reputation|
+|3. Which Inv. Funds combine the best financial and ESG score |__MVP__ [Summary capstone last year](https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/main/Module%205%20-%20EDA%20Visualization/protocol_day17_10may23.md)| 
+|4. We will make the assumption that the financial rating coincides with the ESG rating?  
+|5. What are the determinants of ESG score | Regression analysis| 
 
 ## Task Steps
 
 
-1. Define Financial Performance KPI 
+1. Define Financial Performance KPIs 
 
-2. Define a Composite KPI for ESG performance 
+2. Define a composite KPI for ESG performance 
 
 4. a. Clean our data (e.g. specify which columns you want to keep, rename columns etc.)  
    b. Reduce our dataframe
-   
-   c. Merge Dataframe ETF and MF
-   
-   d. Make an EDA on the data we have downloaded and explain any unexpected findings.   
-   e. Connect to the database 
+   c. Make an EDA on the data we have downloaded and explain any unexpected findings.   
+   d. Connect to the database 
     
 ## Deliverables
-1. Clean and structured .ipynb notebook containing the (well-documented) code of data cleaning. 
+1. Clean and structured .ipynb notebook containing a (well-documented) code of data cleaning. 
 2. Visualizations
 3. Tableau Filter tool and Dashboard __MVP__
 
@@ -52,9 +48,9 @@ Where do I invest if I want to maximize financial return and align with my value
 
 |New Dataframe| Columns|
 |---|---|
-|MF age |1. inception date|
-|MF size |2. total_net_assets, 3. asset_convertible,  4. category, 5. Timezone|
-|MF strategies | 6. investment strategies, 7.initial_investment, 8. investment types  |
-|Reputation- Rating|9. morningstar_risk_rating|
-|Returns|10.Price_earnings_ratio, 11. dividends, 12. year_to_date_return, 13. Time ( to better define)|
-|Sustainability| 14. ESG scores (to better define)|
+|MF age |inception date|
+|MF size |total_net_assets, size_type|
+|MF strategies |investment_type|
+|Reputation- Rating|morningstar_overall_rating|
+|Returns|fund_return_10years, year_to_date_return|
+|Sustainability|esg_score, environment_score |
