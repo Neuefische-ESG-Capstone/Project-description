@@ -13,7 +13,7 @@ Our consulting firm has a data set of all Mutual Funds in the USA with all the c
 
 
 We will answer the following questions : 
-What are the investment options that can yield maximum financial returns while also aligning with my values and commitment to sustainability?
+What are the investment options that can yield maximum financial returns while also aligning with our client's values and commitment to sustainability?
 Are financial leaders also sustainability leaders? As a deliverable, we aim to examine the financial performance and ESG scores of various mutual funds. Our goal is to investigate whether there are discernible patterns in ESG scores based on factors such as fund size, investment strategy, investment type, and dividend distribution.
 
 ## __Research Questions__ 
