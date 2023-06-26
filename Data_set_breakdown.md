@@ -31,6 +31,26 @@
 |peer_social_avg|average Social score in peer group|
 |governance_score|fund Government score|
 |peer_governance_avg|average Government score in peer group|
+|fund_sector_basic_materials|holdings allocation (in %) securities that belong to the basic materials sector|
+|fund_sector_communication_services|holdings allocation (in %) securities that belong to the communication services sector|
+|fund_sector_consumer_cyclical|holdings allocation (in %) securities that belong to the consumer cyclical sector (e.g. Automobiles, Hotels, Restaurants, and Leisure)|
+|fund_sector_consumer_defensive|holdings allocation (in %) securities that belong to the consumer defensive sector (products and services are considered essential or necessary for daily living)|
+|fund_sector_energy|holdings allocation (in %) securities that belong to the energy sector|
+|fund_sector_financial_services|holdings allocation (in %) securities that belong to the financial service sector|
+|fund_sector_healthcare|
+|fund_sector_industrials|holdings allocation (in %) securities that belong to the industrials sector|
+|fund_sector_real_estate|
+fund_sector_technology|
+|fund_sector_utilities|
+
+
+
+
+
+
+
+
+
 
 Financial Return KPIs:
 a) Year-to-Date Return (YTD): Measure the fund's performance from the start of the year to the present. A higher YTD return indicates better short-term financial performance.
