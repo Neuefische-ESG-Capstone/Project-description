@@ -83,3 +83,30 @@ Range of Price Movement: The "week52_high_low_change" metric provides insight in
 
 Volatility Assessment: A larger "week52_high_low_change" indicates higher price volatility, suggesting that the mutual fund has experienced significant price fluctuations over the past year. This metric can help investors assess the fund's volatility and determine if it aligns with their risk tolerance.
 
+CAGR:
+The compound annual growth rate (CAGR) is the rate of return (RoR) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each period of the investment’s life span. CAGR is thus a good way to evaluate how different investments have performed over time, or against a benchmark.
+The CAGR does not, however, reflect investment risk.
+
+How to Calculate Compound Annual Growth Rate (CAGR)
+CAGR=(( BV/EV) ^1/n -1) x 100
+​
+where:
+EV=Ending value
+BV=Beginning value
+n=Number of years
+​
+To calculate the CAGR of an investment:
+
+Divide the value of an investment at the end of the period by its value at the beginning of that period.
+Raise the result to an exponent of one divided by the number of years.
+Subtract one from the subsequent result.
+Multiply by 100 to convert the answer into a percentage.
+
+What the CAGR Can Tell You
+The compound annual growth rate isn’t a true return rate, but rather a representational figure. It is essentially a number that describes the rate at which an investment would have grown if it had grown at the same rate every year and the profits were reinvested at the end of each year.
+
+In reality, this sort of performance is unlikely. However, the CAGR can be used to smooth returns so that they may be more easily understood compared to alternative methods.
+
+​
+
+
