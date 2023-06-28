@@ -5,7 +5,7 @@ In this project, we plan to combine our Python, SQL, and Tableau skills and use 
 
 ## Objective
 
-We are a Data Analyst team of a big Consulting Firm in Europe and our clients are considering expanding their investments in to Mutual Funds in the United States. 
+We are a Data Analyst team in Europe and our clients are considering expanding their investments in to Mutual Funds in the United States. A mutual fund is a financial vehicle that pools assets from shareholders to invest in securities like stocks, bonds, money market instruments, and other assets
 
 However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk but also take into account environmental, social, and governance dimensions. 
 
