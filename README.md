@@ -5,7 +5,9 @@ In this project, we plan to combine our Python, SQL, and Tableau skills and use 
 
 ## Objective
 
-We are a Data Analyst team in Europe and our clients are considering expanding their investments in to Mutual Funds in the United States. A mutual fund is a financial vehicle that pools assets from shareholders to invest in securities like stocks, bonds, money market instruments, and other assets
+We are a Data Analyst team in Europe and our clients are considering expanding their investments in to Mutual Funds in the United States.
+
+A mutual fund is a financial vehicle that pools assets from shareholders to invest in securities like stocks, bonds, money market instruments, and other assets. Mutual funds give small or individual investors access to diversified, professionally managed portfolios.The price of a mutual fund share is referred to as the net asset value (NAV) per share. There are several types of mutual funds available for investment, though most mutual funds fall into one of four main categories which include stock funds, money market funds, bond funds, and target-date funds.
 
 However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk but also take into account environmental, social, and governance dimensions. 
 
