@@ -31,6 +31,26 @@
 |peer_social_avg|average Social score in peer group|
 |governance_score|fund Government score|
 |peer_governance_avg|average Government score in peer group|
+|fund_sector_basic_materials|holdings allocation (in %) securities that belong to the basic materials sector|
+|fund_sector_communication_services|holdings allocation (in %) securities that belong to the communication services sector|
+|fund_sector_consumer_cyclical|holdings allocation (in %) securities that belong to the consumer cyclical sector (e.g. Automobiles, Hotels, Restaurants, and Leisure)|
+|fund_sector_consumer_defensive|holdings allocation (in %) securities that belong to the consumer defensive sector (products and services are considered essential or necessary for daily living)|
+|fund_sector_energy|holdings allocation (in %) securities that belong to the energy sector|
+|fund_sector_financial_services|holdings allocation (in %) securities that belong to the financial service sector|
+|fund_sector_healthcare|
+|fund_sector_industrials|holdings allocation (in %) securities that belong to the industrials sector|
+|fund_sector_real_estate|
+fund_sector_technology|
+|fund_sector_utilities|
+
+
+
+
+
+
+
+
+
 
 Financial Return KPIs:
 a) Year-to-Date Return (YTD): Measure the fund's performance from the start of the year to the present. A higher YTD return indicates better short-term financial performance.
@@ -62,4 +82,31 @@ Long-Term Trend Indicator: The 200-day moving average is primarily used to ident
 Range of Price Movement: The "week52_high_low_change" metric provides insight into the range of prices at which the mutual fund has traded over the past 52 weeks. It calculates the percentage difference between the highest and lowest prices during that period.
 
 Volatility Assessment: A larger "week52_high_low_change" indicates higher price volatility, suggesting that the mutual fund has experienced significant price fluctuations over the past year. This metric can help investors assess the fund's volatility and determine if it aligns with their risk tolerance.
+
+CAGR:
+The compound annual growth rate (CAGR) is the rate of return (RoR) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each period of the investment’s life span. CAGR is thus a good way to evaluate how different investments have performed over time, or against a benchmark.
+The CAGR does not, however, reflect investment risk.
+
+How to Calculate Compound Annual Growth Rate (CAGR)
+CAGR=(( BV/EV) ^1/n -1) x 100
+​
+where:
+EV=Ending value
+BV=Beginning value
+n=Number of years
+​
+To calculate the CAGR of an investment:
+
+Divide the value of an investment at the end of the period by its value at the beginning of that period.
+Raise the result to an exponent of one divided by the number of years.
+Subtract one from the subsequent result.
+Multiply by 100 to convert the answer into a percentage.
+
+What the CAGR Can Tell You
+The compound annual growth rate isn’t a true return rate, but rather a representational figure. It is essentially a number that describes the rate at which an investment would have grown if it had grown at the same rate every year and the profits were reinvested at the end of each year.
+
+In reality, this sort of performance is unlikely. However, the CAGR can be used to smooth returns so that they may be more easily understood compared to alternative methods.
+
+​
+
 
