@@ -10,7 +10,7 @@
 * [Project Methodology](#project-methodology)
 * [Technologies](#technologies)
   
-##Introduction
+## Introduction
 
 As part of a comprehensive Data Analytics bootcamp project, we wanted to explore the intricate relationship between Financial Performance and Environmental, Social, and Governance (ESG) Risks within the realm of US Mutual Funds. Over the course of several weeks, we meticulously analyzed an extensive dataset comprising 23,783 mutual funds spanning the period from 2011 through 2021.
 
@@ -29,12 +29,12 @@ Our primary objective was to gain a deeper understanding of how these two critic
 6.Recommendations: As the culmination of our efforts, we formulated evidence-based recommendations for investors. These insights aimed to strike a balance between financial goals and ESG objectives, guiding stakeholders towards more informed investment decisions.
 
 
-#Deliverables
+## Deliverables
 1. Finding seven mutual funds that, based on historical data, balance the best returns with the least amount of risk , including Environmental, Social and Governance risk (ESG risk) from 2011 through 2021
 2. A user friendly dashboard that a retail investor could use to make an informed investment decision
 3. .ipynb notebook
 
-# Project methodology
+## Project methodology
 
 
 1. Defining the topic
