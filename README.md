@@ -1,57 +1,59 @@
-# Project-description
-# ESG_ Sustainable Finance Capstone project
+# Assessing the Financial Performance and ESG Risk Trade-off in US Mutual Funds
 
-In this project, we plan to combine our Python, SQL, and Tableau skills and use them in combination with each other.  
+## Project title
+ Assessing the Financial Performance and ESG Risk Trade-off in US Mutual Funds
+<br></br>
 
-## Objective
+## Table of Contents
+* [Introduction](#introduction)
+* [Deliverables](#deliverberals)
+* [Project Methodology](#project-methodology)
+* [Technologies](#technologies)
+  
+##Introduction
 
-We are a Data Analyst team in Europe and our clients are considering expanding their investments in to Mutual Funds in the United States.
+As part of a comprehensive Data Analytics bootcamp project, we wanted to explore the intricate relationship between Financial Performance and Environmental, Social, and Governance (ESG) Risks within the realm of US Mutual Funds. Over the course of several weeks, we meticulously analyzed an extensive dataset comprising 23,783 mutual funds spanning the period from 2011 through 2021.
 
-A mutual fund is a financial vehicle that pools assets from shareholders to invest in securities like stocks, bonds, money market instruments, and other assets. Mutual funds give small or individual investors access to diversified, professionally managed portfolios.The price of a mutual fund share is referred to as the net asset value (NAV) per share. There are several types of mutual funds available for investment, though most mutual funds fall into one of four main categories which include stock funds, money market funds, bond funds, and target-date funds.
+Our primary objective was to gain a deeper understanding of how these two critical aspects, financial performance, and ESG risks, interplay in the context of mutual fund investments. The project encompassed several key stages, each tailored to derive valuable insights and actionable recommendations for investors and stakeholders.
 
-However, our customers want to expand their investments while maintaining their values and the sustainability standards set out in Europe. They want to make investments with returns that are not only adjusted to financial risk but also take into account environmental, social, and governance dimensions. 
+1.Data Collection and Preprocessing: We carefully sourced, curated, and cleaned the mutual fund data to ensure consistency and accuracy, enabling us to build a reliable foundation for analysis.
 
-Our consulting firm has a data set of all Mutual Funds in the USA with all the characteristics, returns, and sustainability scores. We are responsible to help our clients to select X top Mutual Funds taking into account their different investor profiles and combining two factors: financial performance and ESG dimensions. 
+2.Financial Performance Analysis: Leveraging various financial metrics and performance indicators, we evaluated the historical performance of each mutual fund. This step involved assessing risk-adjusted returns, volatility, Sharpe ratio, alpha, beta, and other crucial measures to identify patterns and trends.
 
+3.ESG Risk Assessment: To comprehensively gauge the ESG risks associated with each mutual fund, we utilized ESG ratings and sustainability scores data to quantify the funds' exposure to environmental, social, and governance risks.
 
-We will answer the following questions : 
-What are the investment options that can yield maximum financial returns while also aligning with our client's values and commitment to sustainability?
-Are financial leaders also sustainability leaders? As a deliverable, we aim to examine the financial performance and ESG scores of various mutual funds. Our goal is to investigate whether there are discernible patterns in ESG scores based on factors such as fund size, investment strategy, investment type, and dividend distribution.
+4.Finding Trade-offs: Using the financial and ESG risk assessments as a guide, we sought to identify any trade-offs that might exist between the two aspects. We wanted to know if funds with lower ESG risk profiles tended to have better, worse or the same financial performance as the ones with higher ESG profiles.
 
-## __Research Questions__ 
-|Questions|Hypothesis|
-|---|---|
-|1. Which Inv. Funds are leaders in financial performance on average? | X strategy, X type, large and established Mutual Funds because of experience/good track record |
-|2. Which Inv. Funds are leaders in ESG performance on average ?|Smaller and newer Mutual Funds because they want to build good reputation|
-|3. Which Inv. Funds combine the best financial and ESG score |__MVP__ [Summary capstone last year](https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/main/Module%205%20-%20EDA%20Visualization/protocol_day17_10may23.md)| 
-|4. We will make the assumption that the financial rating coincides with the ESG rating?  
-|5. What are the determinants of ESG score | Regression analysis| 
+5. Visualization and Insights: Throughout the project, we utilized powerful data visualization techniques to communicate our findings effectively. Charts, graphs, and interactive dashboards allowed us to present complex relationships in an easily digestible format 
 
-## Task Steps
+6.Recommendations: As the culmination of our efforts, we formulated evidence-based recommendations for investors. These insights aimed to strike a balance between financial goals and ESG objectives, guiding stakeholders towards more informed investment decisions.
 
 
-1. Define Financial Performance KPIs 
+#Deliverables
+1. Finding seven mutual funds that, based on historical data, balance the best returns with the least amount of risk , including Environmental, Social and Governance risk (ESG risk) from 2011 through 2021
+2. A user friendly dashboard that a retail investor could use to make an informed investment decision
+3. .ipynb notebook
 
-2. Define a composite KPI for ESG performance 
+# Project methodology
 
-4. a. Clean our data (e.g. specify which columns you want to keep, rename columns etc.)  
-   b. Reduce our dataframe
-   c. Make an EDA on the data we have downloaded and explain any unexpected findings.   
-   d. Connect to the database 
-    
-## Deliverables
-1. Clean and structured .ipynb notebook containing a (well-documented) code of data cleaning. 
-2. Visualizations
-3. Tableau Filter tool and Dashboard __MVP__
 
-##  __Columns to be used__
-<span style="color:grey">
+1. Defining the topic
+2. Finding a proper dataset 
+- Reading the raw data into Python
+- Data adaptation for export to the SQL server (adaptation of data type)
+- Export data to capstone schema of PostgreSQL server
+- Reading the SQL data into Python
+3. Gain data understanding and clarify meaning of columns
+- Define MVP
+- Identification of Project Deliverables, KPIs and Milestones
+4. Data cleaning and data manipulation
+- Creation of dataframes from the SQL data
+- Customize column names
+- Merging of dataframes in df_subset
+5. Analyze data and create visualizations
+- Analysis of the df_subset 
+6. Tool creation
 
-|New Dataframe| Columns|
-|---|---|
-|MF age |inception date|
-|MF size |total_net_assets, size_type|
-|MF strategies |investment_type|
-|Reputation- Rating|morningstar_overall_rating|
-|Returns|fund_return_10years, year_to_date_return|
-|Sustainability|esg_score, environment_score |
+7. Project completion
+- Validation and Documentation
+- Create Capstone Presentation
