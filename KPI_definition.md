@@ -18,7 +18,7 @@ performance.
 |Direction |__the higher,the better__|__the higher,the better__|
 |Names in our Dataset| fund_mean_annual_return_10years|fund_return_2006 until fund_return_2020 |
 
-## __2. Risk Profile KPI__ 
+## __2. Risk Profile__ 
 ||[Link for Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |[Link for Source](https://www.forbes.com/advisor/investing/sharpe-ratio/#:~:text=The%20Sharpe%20Ratio%20is%20calculated,a%20measure%20of%20its%20volatility.) |
 |---|---|---|---|
 |KPIs|Alpha|Beta|Sharpe Ratio|
@@ -36,25 +36,6 @@ performance.
 |Direction|__the lower , the better__|
 |Names in our Dataset|esg_score|
 
-Environmental Pillar
-
-Climate change impacts the ESG score by measuring carbon emissions, product carbon footprint, financing environmental impact, and climate change vulnerability.
-Natural capital comprises the topics of water stress, biodiversity and land use, and raw material sourcing.
-Pollution and waste are tied to toxic emissions, packaging material, and electronic waste.
-Environmental opportunities look at a company’s usage of clean tech, green building, and renewable energy.
-Social Pillar
-
-Human capital comes from labor management, health and safety, human capital development, and supply chain labor standards.
-Product liability encompasses product safety and quality, chemical safety, consumer financial protection, privacy and data security, responsible investment, and insuring health and demographic risk.
-Stakeholder opposition includes controversial sourcing and community relations.
-Social opportunities regards access to communication, access to finance, access to health care, and opportunities in nutrition and overall health.
-Governance Pillar
-
-Corporate governance is scored through the board, employee pay, ownership, and accounting.
-Corporate behavior is defined through business ethics and tax transparency.
-
-
-
-## __4. Optional KPI__ 
+## __4. Optional KPIs__ 
 
 Reputation- Rating: morningstar_risk_rating
