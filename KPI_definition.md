@@ -38,5 +38,8 @@ performance.
 |Sustainability| 15. esg_score|
 |Reputation- Rating|9. morningstar_risk_rating|
 
-
+|KPI|esg_score|Yearly Return |
+|---|---|---|
+|Definition|---|---|
+|Direction|---|---|
 
