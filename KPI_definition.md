@@ -24,7 +24,20 @@ performance.
 
 # Selection criteria for an investment fund
 
-## __1. Risk Profile KPI__ 
+## __1. Return__
+
+fund_mean_annual_return_10years	
+
+
+|KPI|Average Return|
+|---|---|
+|Definitions|The mean return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.|
+|Direction |__the higher,the better__|
+|Names in our Datasets| fund_mean_annual_return_10years|
+
+
+
+## __2. Risk Profile KPI__ 
 ||[Link for Source](https://www.investopedia.com/investing/measure-mutual-fund-risk/)| _"Risk is one word, but it is not one number._"Harry Kat, professor of risk management  |[Link for Source](https://www.forbes.com/advisor/investing/sharpe-ratio/#:~:text=The%20Sharpe%20Ratio%20is%20calculated,a%20measure%20of%20its%20volatility.) |
 |---|---|---|---|
 |KPIs|Alpha|Beta|Sharpe Ratio|
@@ -35,20 +48,9 @@ performance.
 |Range in our Datasets |*Max 25.92    *Min -37.20 |*Max 5.21  *Min -25.34 |Max  2.63  Min -4.36	| 
 
 
-## __2. Fees__
 
-fund_annual_report_net_expense_ratio
 .
-## __3. Return Profile KPI__ 
+## __3. ESG risk Profile__ 
 
-fund_mean_annual_return_10years	
-
-
-|KPI|Fees|Return|
-|---|---|---|
-|Definitions|is a measure of the total annual operating expenses of the fund, expressed as a percentage of its average net assets. It represents the costs incurred by the fund to manage and operate the investment portfolio|The average annual return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.|
-|Direction |__the lower, the better__(ASC)|__the higher,the better__( DESC)|
-|Names in our Datasets|fund_annual_report_net_expense_ratio| fund_mean_annual_return_10years|
-|Range in our Datasets |*Max 25.92    *Min -37.20 |*Max 5.21  *Min -25.34 |Max  3.22  Min -3.91	| 
 
 
