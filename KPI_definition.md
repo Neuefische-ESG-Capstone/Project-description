@@ -36,6 +36,25 @@ performance.
 |Direction|__the lower , the better__|
 |Names in our Dataset|esg_score|
 
-## __3. Optional KPI__ 
+Environmental Pillar
 
-Reputation- Rating: 9. morningstar_risk_rating|
+Climate change impacts the ESG score by measuring carbon emissions, product carbon footprint, financing environmental impact, and climate change vulnerability.
+Natural capital comprises the topics of water stress, biodiversity and land use, and raw material sourcing.
+Pollution and waste are tied to toxic emissions, packaging material, and electronic waste.
+Environmental opportunities look at a company’s usage of clean tech, green building, and renewable energy.
+Social Pillar
+
+Human capital comes from labor management, health and safety, human capital development, and supply chain labor standards.
+Product liability encompasses product safety and quality, chemical safety, consumer financial protection, privacy and data security, responsible investment, and insuring health and demographic risk.
+Stakeholder opposition includes controversial sourcing and community relations.
+Social opportunities regards access to communication, access to finance, access to health care, and opportunities in nutrition and overall health.
+Governance Pillar
+
+Corporate governance is scored through the board, employee pay, ownership, and accounting.
+Corporate behavior is defined through business ethics and tax transparency.
+
+
+
+## __4. Optional KPI__ 
+
+Reputation- Rating: morningstar_risk_rating
