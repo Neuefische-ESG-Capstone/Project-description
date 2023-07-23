@@ -5,9 +5,7 @@ In this project, we aim to assist with mutual fund investment decisions by emplo
 Our approach revolves around analyzing the historical performance of funds using the Performance Persistence Paradigm. This paradigm posits that a mutual fund's future performance can be predicted based on its past performance.[Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
 
 
-We emphasize that this exercise is solely for educational purposes and does not constitute any form of financial advice. Our goal is to provide valuable insights and tools to aid in making informed investment decisions.
-
-
+__We emphasize that this exercise is solely for educational purposes and does not constitute any form of financial advice.__
 
 # Selection criteria for a Mutual Fund (MF)
 
