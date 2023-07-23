@@ -1,4 +1,4 @@
-# Our Approach:  
+# Introduction:  
 
 In this project, we aim to assist with mutual fund investment decisions by employing a range of key performance indicators (KPIs) that consider return expectations, risk profile, ESG risk positioning, and optional factors like the Morningstar Rating.
 
