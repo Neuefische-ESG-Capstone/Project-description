@@ -13,9 +13,6 @@ performance.
 
 ## __1. Return__
 
-fund_mean_annual_return_10years	
-
-
 |KPI|Average Return|Yearly Return |
 |---|---|---|
 |Definitions|The mean return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.|percentage increase or decrease in the fund's value over a year|
