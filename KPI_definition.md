@@ -20,7 +20,7 @@ fund_mean_annual_return_10years
 |---|---|---|
 |Definitions|The mean return of a fund is a measure of the average percentage increase or decrease in the fund's value over a specific period.|percentage increase or decrease in the fund's value over a year|
 |Direction |__the higher,the better__|__the higher,the better__|
-|Names in our Datasets| fund_mean_annual_return_10years||
+|Names in our Datasets| fund_mean_annual_return_10years|fund_return_2006 until fund_return_2020 |
 
 
 
