@@ -9,7 +9,7 @@ We emphasize that this exercise is solely for educational purposes and does not 
 
 
 
-# Selection criteria for an investment fund
+# Selection criteria for a Mutual Fund (MF)
 
 ## __1. Return__
 
