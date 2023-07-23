@@ -36,5 +36,6 @@ performance.
 |Direction|__the lower , the better__|
 |Names in our Dataset|esg_score|
 
+## __3. Optional KPI__ 
 
-|Reputation- Rating|9. morningstar_risk_rating|
+Reputation- Rating: 9. morningstar_risk_rating|
