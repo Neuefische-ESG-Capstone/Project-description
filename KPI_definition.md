@@ -7,7 +7,7 @@ Our approach revolves around analyzing the historical performance of funds using
 
 __We emphasize that this exercise is solely for educational purposes and does not constitute any form of financial advice.__
 
-# Criteria for Mutual Fund (MF) Selection 
+# Criteria for Mutual Funds (MF) Selection 
 
 ## __1. Return__
 
