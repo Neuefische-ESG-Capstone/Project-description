@@ -8,19 +8,6 @@ past performance’ that is the past performance of the fund schemes is an indic
 performance.
 [Link for Source](https://www.researchgate.net/publication/325115723_A_Review_of_Performance_Indicators_of_Mutual_Funds)
 
-## Funds Characteristics 
-
-|Characteristics | Columns|
-|---|---|
-|Inv. Fund age |1. inception_date	|
-|Inv. Fund size and details |2. total_net_assets, 3. fund_category	,  4. fund_family 5. exchange_timezone|
-|Inv. strategies | 6. investment strategies, 7. investment types  |
-|Reputation- Rating|9. morningstar_risk_rating|
-|__Financial and ESG Performance__| __Columns__|
-|Inv. Fund Risk Profile| 10. fund_alpha_10years	11. fund_beta_10years 12. fund_sharpe_ratio_10years|  
-|Inv. Funds Fees| 13. fund_annual_report_net_expense_ratio |
-|Returns| 14.fund_mean_annual_return_10years |
-|Sustainability| 15. esg_score|
 
 # Selection criteria for an investment fund
 
@@ -51,6 +38,8 @@ fund_mean_annual_return_10years
 
 .
 ## __3. ESG risk Profile__ 
+|Sustainability| 15. esg_score|
+|Reputation- Rating|9. morningstar_risk_rating|
 
 
 
