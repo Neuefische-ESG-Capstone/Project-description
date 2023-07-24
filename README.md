@@ -31,8 +31,8 @@ Our primary objective was to gain a deeper understanding of how these two critic
 
 ## Deliverables
 1. Finding seven mutual funds that, based on historical data, balance the best returns with the least amount of risk , including Environmental, Social and Governance risk (ESG risk) from 2011 through 2021
-2. A user friendly dashboard that a retail investor could use to make an informed investment decision
-3. .ipynb notebook
+2. A user friendly Tableau dashboard that a retail investor could use to make an informed investment decision
+3. Jupyter notebooks
 
 ## Project methodology
 
