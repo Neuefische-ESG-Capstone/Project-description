@@ -51,7 +51,7 @@ Our primary objective was to gain a deeper understanding of how these two critic
 - Customize column names
 - Merging of dataframes in df_subset
 5. Analyze data and create visualizations
-- Analysis of the df_subset 
+
 6. Tool creation
 
 7. Project completion
