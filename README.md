@@ -1,5 +1,7 @@
 
-<img src="[https://github.com/neuefische/daily-protocol-cgn-da-23-2/blob/dorcas/Module%208%20-%20Tableau/images/Screenshot_Create_Dashboard.png](https://github.com/Neuefische-ESG-Capstone/Project-description/blob/main/Dashboard_Tableau_Picture.png)?raw=True&s=20" width="600">
+
+
+<img src="https://github.com/Neuefische-ESG-Capstone/Project-description/blob/main/Dashboard_Tableau_Picture.png?raw=True&s=20" width="600">)
 
 # Assessing the Financial Performance and ESG Risk Trade-off in US Mutual Funds
 
