@@ -49,7 +49,7 @@ Our primary objective was to gain a deeper understanding of how these two critic
 4. Data cleaning and data manipulation
 - Creation of dataframes from the SQL data
 - Customize column names
-- Merging of dataframes in df_subset
+- Merging of dataframes 
 5. Analyze data and create visualizations
 
 6. Tool creation
