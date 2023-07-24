@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/Neuefische-ESG-Capstone/Project-description/blob/main/Dashboard_Tableau_Picture.png?raw=True&s=20" width="600">
+<img src="https://github.com/Neuefische-ESG-Capstone/Project-description/blob/main/Dashboard_Tableau_Picture.png?raw=True&s=20" width="900">
 
 # Assessing the Financial Performance and ESG Risk Trade-off in US Mutual Funds
 
